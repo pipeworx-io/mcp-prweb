@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-prweb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PRWeb MCP — press releases from PRWeb's all-releases feed.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1843acee93683c14e621c389b123b2af094c1be76a2a7123c5805c962ff81727",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-1d310aad0ec51b80c6757a89843097d7a4ecbe47e7ef4c6e920074aa7f13f257",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }
