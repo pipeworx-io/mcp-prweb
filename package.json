@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-prweb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "PRWeb MCP — press releases from PRWeb's all-releases feed.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "prweb",
     "gatewaySlug": "prweb",
-    "sourceHash": "v1-15a68f80c738f5470acf2dde9c2e397759102a8f69d58e4d7e948ac32429d77d",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-7daeb3a49ab22aaa13277974a4670269d3b17bab4b69c2ed981aa4552bf9c886",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }

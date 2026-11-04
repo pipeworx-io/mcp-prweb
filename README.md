@@ -5,7 +5,7 @@ headline, issuer, industry and subject tags, publish time and excerpt, newest
 first. PRWeb is Cision's small-business wire: issuers are mostly local
 businesses, nonprofits, agencies and startups rather than listed companies.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1856+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1866+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Tools
 
@@ -25,7 +25,7 @@ disallow `/rss/`.
 
 ## Data sources
 
-- <https://www.prweb.com/rss/news-releases-list.rss> — PRWeb's "All News
+- PRWeb — PRWeb's "All News
   Releases" feed. Measured 2026-09-22: 20 items spanning about 7.5 hours.
 
 Every call re-fetches this same rolling ~20-item window live — it is **not**
@@ -87,7 +87,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1856+ data sources. The
+Both URLs reach the same gateway and the same 1866+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
